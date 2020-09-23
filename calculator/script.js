@@ -1,2 +1,1 @@
-// start calculator task
-const numbers = document.querySelectorAll('number');
+const btnNumbers = document.querySelectorAll('number');
